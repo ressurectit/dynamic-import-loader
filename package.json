@@ -1,0 +1,27 @@
+{
+    "name": "dynamic-import-loader",
+    "version": "1.0.0",
+    "description": "Webpack loader that converts dynamic import paths to relative paths",
+    "main": "index.js",
+    "scripts": {
+    },
+    "engines": {
+        "node": "^14.15.0 || >=16.10.0",
+        "npm": "^6.10.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ressurectit/dynamic-import-loader.git"
+    },
+    "keywords": [
+        "angular",
+        "ng",
+        "dynamic"
+    ],
+    "author": "kukjevov",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ressurectit/dynamic-import-loader/issues"
+    },
+    "homepage": "https://github.com/ressurectit/dynamic-import-loader"
+}
